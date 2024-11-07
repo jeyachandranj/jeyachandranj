@@ -6,7 +6,7 @@
 <p>https://jeyachandranj.netlify.app/</p>
 - 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **REACT JS, NODE JS, MONGODB, Spring Boot**
+- 💬 Ask me about **REACT JS, NODE JS, MONGODBt**
 
 - 📫 How to reach me **j.jeyachandran072@gmail.com**
 
