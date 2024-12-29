@@ -127,7 +127,7 @@
 <!--Contact Section--> 
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
-<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
   <a href="mailto:j.jeyachandran072@gmail.com" target="_blank">
     <img src="./gmail.png" width="50" height="50" alt="j.jeyachandran072@gmail.com" />
   </a>
