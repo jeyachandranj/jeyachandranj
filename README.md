@@ -1,5 +1,8 @@
 ![jeyachandranj Banner Image](./banner.png)
 
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 
 <h1 align="center">Hi 👋, I'm JEYACHANDRAN J</h1>
 <h3 align="center">A passionate Fullstack developer</h3>
