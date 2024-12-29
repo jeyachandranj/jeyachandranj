@@ -107,7 +107,7 @@
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/jeyachandranj">
-                    <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=jeyachandranj&repo=Awesome-Dev-Portfolios&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+                    <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=jeyachandranj&repo=LeetCode-Performance-React&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
         </a>
       </p>
     </td>
