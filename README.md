@@ -98,8 +98,8 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/jeyachandranj/LeetCode-Performance-React.git">
-          <img align="center" width="470" src="https://github.com/jeyachandranj/LeetCode-Performance-React.git/username=jeyachandranj&repo=CryptoWallet&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="climatecrew" />
+        <a href="https://github.com/jeyachandranj/LeetCode-Performance-React">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=jeyachandranj&repo=LeetCode-Performance-React&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="LeetCode-Performance-React" />
         </a>
       </p>
     </td>
@@ -107,11 +107,11 @@
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/jeyachandranj">
-                    <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=jeyachandranj&repo=LeetCode-Performance-React&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=jeyachandranj&repo=CryptoWallet&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="CryptoWallet" />
         </a>
       </p>
     </td>
-  </tr>
+</tr>
 </table>
 <br />
 
