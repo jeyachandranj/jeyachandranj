@@ -107,7 +107,7 @@
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/naveendgp/CryptoWallet.git">
-          <img align="center" width="470" src="http://climatecrew.info/username=jeyachandranj&repo=Awesome-Dev-Portfolios&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+          <img align="center" width="470" src="http://climatecrew.info/username=jeyachandranj&repo=CryptoWallet&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="climatecrew" />
         </a>
       </p>
     </td>
