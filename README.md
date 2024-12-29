@@ -1,3 +1,4 @@
+![jeyachandranj Banner Image](./banner.png)
 
 
 <h1 align="center">Hi 👋, I'm JEYACHANDRAN J</h1>
