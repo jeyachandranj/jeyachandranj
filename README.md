@@ -22,15 +22,6 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jeyachandran j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeyachandran j" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/jeyachandranj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jeyachandranj" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@j_jeyachandran01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@j_jeyachandran01" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jeyachandran72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jeyachandran72" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/jeyachandran j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="jeyachandran j" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/jjeyachana4l0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jjeyachana4l0" height="30" width="40" /></a>
-</p>
 
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2> 
 <picture>
@@ -38,7 +29,6 @@
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
   <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
-<br />
 
 <h3 align="left">Frontend</h3>
 <ul>
@@ -60,6 +50,8 @@
   <li><span>Version Control : </span> <span>GitHub</span></li>
   <li><span>IDE             : </span> <span>VS Code</span></li>
 </ul>
+<br />
+
 
 ---
 
