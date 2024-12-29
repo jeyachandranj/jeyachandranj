@@ -132,5 +132,30 @@
 
 ![Leet Code](https://leetcode.card.workers.dev/jeyachandran72?theme=dark&font=milonga&extension=null)
 
+<!--Contact Section--> 
+
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
+  
+<a href="mailto:j.jeyachandran072@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="j.jeyachandran072@gmail.com" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/jeyan572" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.githubcom/jeyachandranj" target="_blank">
+<img src="./github.png" width=50 height=50 alt="jeyachandranj" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://linkedin.com/in/jeyachandran-j-638573259" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+
+
+</div>
+<br/>
+
 
 
