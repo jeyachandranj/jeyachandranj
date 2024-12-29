@@ -42,24 +42,23 @@
 
 <h3 align="left">Frontend</h3>
 <ul>
-  <li><span>Technology:</span> <span>HTML, CSS, JS</span></li>
-  <li><span>Framework:</span> <span>React</span></li>
-  <li><span>UI Library:</span> <span>Bootstrap</span></li>
+  <li><span>Technology : </span> <span>HTML, CSS, JS</span></li>
+  <li><span>Framework : </span> <span>React</span></li>
+  <li><span>UI Library :</span> <span> Bootstrap</span></li>
 </ul>
 
 <h3 align="left">Backend</h3>
 <ul>
-  <li><span>Runtime:</span> <span>Node.js</span></li>
-  <li><span>Framework:</span> <span>Express</span></li>
-  <li><span>Database:</span> <span>MongoDB, SQL</span></li>
-  <li><span>Cloud:</span> <span>AWS</span></li>
+  <li><span>Runtime : </span> <span>Node.js</span></li>
+  <li><span>Framework : </span> <span>Express</span></li>
+  <li><span>Database : </span> <span>MongoDB, SQL</span></li>
+  <li><span>Cloud : </span> <span>AWS</span></li>
 </ul>
 
 <h3 align="left">Tools</h3>
 <ul>
-  <li><span>Version Control:</span> <span>GitHub</span></li>
-  <li><span>IDE:</span> <span>VS Code</span></li>
-  <li><span>Platform:</span> <span>Backstage</span></li>
+  <li><span>Version Control : </span> <span>GitHub</span></li>
+  <li><span>IDE : </span> <span>VS Code</span></li>
 </ul>
 
 ![Leet Code](https://leetcode.card.workers.dev/jeyachandran72?theme=dark&font=milonga&extension=null)
