@@ -4,13 +4,13 @@
 <h3 align="center">A passionate Fullstack developer</h3>
 <a href="https://jeyachandranj.netlify.app/"><h3>Portfolio</h3></a>
 <p>https://jeyachandranj.netlify.app/</p>
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **System Design**
 
 - 💬 Ask me about **REACT JS, NODE JS, MONGODBt**
 
 - 📫 How to reach me **j.jeyachandran072@gmail.com**
 
-- 📄 Know about my Resume [https://drive.google.com/file/d/13gDxTpIfoB-8HW7imv_fVcbWp50Z0pBa/view?usp=sharing](https://drive.google.com/file/d/13gDxTpIfoB-8HW7imv_fVcbWp50Z0pBa/view?usp=sharing)
+- 📄 Know about my Resume [Resume Link](https://github.com/jeyachandranj/resume/blob/main/Jeyachandran.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
